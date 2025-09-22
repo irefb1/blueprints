@@ -9,4 +9,6 @@ Acronim for (U)fficiali (D)i (C)ampo. Italian flag at the top, since it is the c
 
 #  Post
 
+![Post](bp-clip-video.png)
+
 Blueprint for post (clip content, description, title, NOT hook, ...). Mainly designed for Instagram, but can works alfo for other platforms.
